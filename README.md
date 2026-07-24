@@ -6,4 +6,7 @@ Análisis end-to-end sobre datos reales de un marketplace (Olist, ~100.000 pedid
 2. ¿Qué distingue a un cliente que repite de uno que no?
 3. ¿Dónde debería intervenir la empresa, y cuánto vale hacerlo?
 
+# Los datos
+Dataset público de Olist (marketplace brasileño), ~100.000 pedidos entre [fechas — te salen en la consulta 4]. Nueve tablas cargadas en PostgreSQL: pedidos, clientes, pagos, reseñas, productos, vendedores y geolocalización. Volumen total: 99.441 pedidos, 112.650 líneas de pedido.
+
 (Resultados y recomendación: en construcción)

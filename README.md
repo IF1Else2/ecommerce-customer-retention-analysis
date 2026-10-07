@@ -15,7 +15,9 @@ Dataset público de Olist (marketplace brasileño), ~100.000 pedidos entre 04/09
 ## Hallazgos
 **Pregunta 1 — Recompra:** solo el 3,0% de los clientes (2.801 de 93.358) realiza una segunda compra. De los que vuelven, el tiempo típico hasta la segunda compra es de 71 días (mediana; media 112). No existe recompra temprana: quien regresa, tarda más de dos meses. La ventana de reenganche —las primeras semanas tras la compra— está desaprovechada.
 
-**Pregunta 2 — ¿Qué distingue al que repite?** Se probaron tres factores del primer pedido: tiempo de entrega, valor de la compra y puntuación de la reseña. Ninguno predice la recompra: clientes satisfechos (5★) y descontentos (1★) repiten por igual (~3%), la entrega es idéntica entre grupos, y el valor apenas difiere. Conclusión: la baja retención no responde a una mala experiencia puntual, sino que es estructural del modelo marketplace. Implicación: no basta con "hacerlo bien" en el primer pedido; hace falta un mecanismo activo de reenganche.
+**Pregunta 2 — ¿Qué distingue al que repite?** Se probaron tres factores del primer pedido: tiempo de entrega, valor de la compra y puntuación de la reseña. Ninguno predice la recompra: clientes satisfechos (5★) y descontentos (1★) repiten por igual (~3%), la entrega es idéntica entre grupos, y el valor apenas difiere. 
+
+Conclusión: la baja retención no responde a una mala experiencia puntual, sino que es estructural del modelo marketplace. Implicación: no basta con "hacerlo bien" en el primer pedido; hace falta un mecanismo activo de reenganche.
 
 **Pregunta 3 — Recomendación:** 
 
